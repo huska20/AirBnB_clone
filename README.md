@@ -84,5 +84,5 @@ EOF  help  quit
 $![815046647d23428a14ca](https://user-images.githubusercontent.com/85700432/182385028-b30a1fe6-8517-49ba-bc52-d03a64a2655f.png)
 
 # AUTHORS:
-Olamide Oso | Olamideoso65@gmail.com
-Oluwashogo Oyewale | Oyewaletimmy01@gmail.com
+GABRIEL ADESANYA <gadesanya22@gmail.com>
+ABDI HUSSEIN ALI <sharifka87@gmail.com>
