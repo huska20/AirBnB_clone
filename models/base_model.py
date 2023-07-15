@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This script is the basemodel"""
+"""This script is the base model"""
 
 import uuid
 from datetime import datetime
@@ -53,4 +53,3 @@ class BaseModel:
         my_dict["created_at"] = my_dict["created_at"].isoformat()
         my_dict["updated_at"] = my_dict["updated_at"].isoformat()
         return my_dict
-
