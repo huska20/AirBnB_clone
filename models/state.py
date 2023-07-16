@@ -1,11 +1,14 @@
 #!/usr/bin/python3
-""" state module
-"""
 
+"""
+State class, a subclass of BaseModel
+"""
 from models.base_model import BaseModel
 
-
 class State(BaseModel):
-    """ State class
+    """
+    A subclass of BaseModel class
+    Public class attribute:
+        name: (str)
     """
     name = ""
